@@ -7,6 +7,7 @@ h2,h3,h4,h5 {
 	color:orangered;
 	border: 2px solid red
 
+
 }
 #scoreBoard {
 	border: 2px solid red;
@@ -18,6 +19,7 @@ ul {
 a:hover {
 	color: hotpink;
 	text-decoration: none;
+	background-color: black;
 }
 blockquote {
 	background-color: darkgreen;
